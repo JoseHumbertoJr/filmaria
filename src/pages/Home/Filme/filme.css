@@ -1,0 +1,30 @@
+.article{
+    flex-direction: column;
+    margin: auto;
+    width: 50%;
+}
+.filme{
+    border-radius: 20px;
+    width: 100%;
+}
+.article button{
+    margin-right: 50px;
+    text-align: center;
+    margin-top: 15px;
+    border-radius: 5px;
+    border: 0;
+    font-size: 20px;
+    outline: none;
+    padding: 12px;
+}
+.article button:hover{
+    background-color: brown;
+    color: #fff;
+}
+.article a{
+    text-decoration: none;
+    color: black;
+}
+.article a:hover{
+    color: #fff;
+}
